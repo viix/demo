@@ -1,0 +1,10 @@
+version: 1.0
+shards:
+  any_hash:
+    github: sija/any_hash.cr
+    version: 0.2.0
+
+  raven:
+    github: sija/raven.cr
+    version: 0.8.0
+
